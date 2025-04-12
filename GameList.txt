@@ -19,8 +19,8 @@ L·SHAIYA-<月票1>=127.0.0.1
 
 [Update]
 ;地址支持IP和域名，域名必须添加【 http:// 或 https:// 】，结尾不要添加 /
-Address=https://laoshaiya.github.io/laoshaiya
-Web=https://laoshaiya.github.io/laoshaiya/web/
+Address=http://gx5.laoshaiya.com
+Web=http://gx5.laoshaiya.com/web/
 
 
 [Version]
