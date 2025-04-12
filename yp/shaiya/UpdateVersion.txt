@@ -1,0 +1,4 @@
+[Version]
+CheckVersion=2
+UpdaterVersion=6
+PatchFileVersion=113

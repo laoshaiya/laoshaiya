@@ -1,0 +1,38 @@
+	/游戏名字       / 游戏IP    /网关端口  /游戏端口  /数据端口 /强制补丁MD5/强制补丁下载地址 /在线补丁版本号 /在线补丁下载地址  /game MD5 /game下载地址
+
+老神泣【龙之反击V4.0+】(新)    |203.195.129.117|7001|8001|9001
+老神泣【龙之反击V4.0+】(新)    |203.195.129.117|7001|8001|9001
+
+
+
+[公告]
+
+右上打窗口公告=http://gx.laoshaiya.com:83/sg.htm
+右下打窗口公告=http://gx.laoshaiya.com:83/xg.htm
+
+
+[强制更新]
+
+强制补丁MD5=69ffeffd640f499e41349ed81ca39052
+强制补丁下载地址=http://gx.laoshaiya.com:83/shaiya/patch/ijll5.7z
+
+
+[在线更新]
+
+在线补丁版本号=12
+在线补丁下载地址=http://gx.laoshaiya.com:83/shaiya/patch/
+
+[game更新]
+
+gameMD5=49f28834c92349f01fe8376aba36059d
+game下载地址=http://gx.laoshaiya.com:83/shaiya/patch/Game.exe
+
+[登录器更新]
+
+登录器版本号=0413
+登录器下载地址=http://gx.laoshaiya.com:83/shaiya/dlq.exe
+
+[登录器保存名字]
+
+保存名字=老神泣.exe
+序列号=9999999999

@@ -1,0 +1,2 @@
+<ban>false<ban><validity>2099-12-31<validity><code>cff4baa293a332c88ac06557cedb9878<code>
+<notmap>0,18,30,11,58,48,49,68,70<notmap>
